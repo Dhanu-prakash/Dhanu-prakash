@@ -31,7 +31,7 @@ while (!success) {
 
 ## 🕸️ You Can Find Me Here (Not in a spider sense)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/dhanuprakash-dhanasekaran-223a18265/])
-[![Instagram](https://img.shields.io/badge/-Portfolio-black?style=flat-square)]((https://www.instagram.com/_exotic.dhanuuu/))
+[![Instagram](https://img.shields.io/badge/-@_exotic.dhanuuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_exotic.dhanuuu/])
 
 ## ☕ Fun Facts
 - I treat commit messages like tiny journal entries.
