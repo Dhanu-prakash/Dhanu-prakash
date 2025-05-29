@@ -17,7 +17,7 @@ while (!success) {
 ---
 
 ## 📌 Featured Projects
-- 🔹 [Inverted-Pyramid-Generator]()– Simple CLI pyramid tool
+- 🔹 [ToDo-App](https://github.com/Dhanu-prakash/todo)– To Do
 - 🔹 [Grade-Book-App](https://github.com/Dhanu-prakash/Grade-Book-App) – Manage student grades easily
 - 🔹 [Expense-Tracker](https://github.com/Dhanu-prakash/Expense-Tracker) – Track your spending
 
